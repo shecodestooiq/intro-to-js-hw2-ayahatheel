@@ -15,10 +15,10 @@ var isALessThanB = a < b;
 console.log("Is a <  b?", isALessThanB);
 
 var isAGreaterThanOrEqualToB = a >= b;
-console.log("Is a >= to b?", isAGreaterThanOrEqualToB);
+console.log("Is a >=  b?", isAGreaterThanOrEqualToB);
 
 // Second Short Method
-console.log("Is a <= to b?", a <= b);
+console.log("Is a <=  b?", a <= b);
 
 console.log("Is a  ==  b?", a == b);
 
